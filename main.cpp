@@ -21,6 +21,7 @@ int main(int argc, const char * argv[])
     {
         cout << vInt.at(index) << "\n";
     }
+    
     cout << "----- WORDS -----" << "\n";
     for(int index = 0; index < vString.size(); index ++)
     {
