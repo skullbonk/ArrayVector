@@ -13,7 +13,7 @@ using namespace std;
 int main(int argc, const char * argv[])
 {
     vector<int> vInt = {1, 6, 9, 8, 7, 5, 3, 2, 0, 4};
-    vector<string> vString = {"", "", "", "", "", "", "", "", "", ""};
+    vector<string> vString = {"ding", "dong", "bing", "bong", "king", "kong", "ding again", "dong again", "bingo", "bum"};
     string words[vString.size()];
     
     cout << "----- NUMBERS -----" << "\n";
